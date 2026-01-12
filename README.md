@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Compliance & Risk Analyst
 -------------------------
 
-I am a Chartered Wealth Manager and MFin with 16 years of experience in the mutual fund and wealth management industry. I love creating and automating processes to increase operational efficiency. I offer a rare combination of global market knowledge and domestic regulatory expertise.
+Finance Professional transitioning to RegTech. Focused on automating Investment Risk and Compliance workflows.
 
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/parminderscwm/)
