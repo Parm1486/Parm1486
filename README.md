@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Parminder Singh
 ========================================================================================================================================
 
-Compliance & Risk Analyst
+Compliance & Risk 
 -------------------------
 
 Finance Professional transitioning to RegTech. Focused on automating Investment Risk and Compliance workflows.
